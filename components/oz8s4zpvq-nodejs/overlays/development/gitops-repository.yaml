@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: oz8s4zpvq-nodejs-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/oz8s4zpvq-nodejs-gitops
